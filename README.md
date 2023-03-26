@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm Kun<br>👯 Don't be the same, be better<br>🤝 It's never too late to change yourself<br>🌱 If you are having a bad day - Take a deep breath<br>💬 If you don't change it - Don't complain
 
 
 # 💻 Tech Stack:
