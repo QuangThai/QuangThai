@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Kun<br>👯 Don't be the same, be better<br>🤝 It's never too late to change yourself<br>🌱 If you are having a bad day - Take a deep breath<br>💬 If you don't change it - Don't complain
+🔭 I'm Quang Thai<br>👯 Don't be the same, be better<br>🤝 It's never too late to change yourself<br>🌱 If you are having a bad day - Take a deep breath<br>💬 If you don't change it - Don't complain
 
 
 # 💻 Tech Stack:
